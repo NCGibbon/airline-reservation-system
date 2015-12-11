@@ -9,4 +9,4 @@ Some things it's not:
 
 No, but seriously this is not secure. I *could* make it secure, but I have neither the time nor the motivation to do that.
 
-Start it by running initial.py. You'll need the [MySQL connector](http://dev.mysql.com/downloads/connector/python/) for Python 3.4, and the tkinter library.
+Start it by running initial.py. You'll need the [MySQL connector](http://dev.mysql.com/downloads/connector/python/) for Python 3.4, and the tkinter library. You'll also need to have a MySQL database set up, and the credentials inserted in databaseConnection.py.
